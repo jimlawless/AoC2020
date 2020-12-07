@@ -1,3 +1,5 @@
+# Jim Lawless
+# License: https://github.com/jimlawless/AoC2020/LICENSE
 
 infile = open("input.txt","r")
 aa={}
