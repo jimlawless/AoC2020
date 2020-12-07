@@ -1,3 +1,5 @@
+# Jim Lawless
+# License: https://github.com/jimlawless/AoC2020/LICENSE
 
 def seatNum(bpass):
     lo=0
