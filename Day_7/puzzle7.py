@@ -20,7 +20,6 @@ def searchRules(srch):
                     count=count+searchRules(bagtype)
     return count
 
-
 infile = open("input.txt","r")
 total=0
 for line in infile:
