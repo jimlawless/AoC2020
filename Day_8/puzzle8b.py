@@ -60,7 +60,7 @@ while not done:
             continue
         if ins[0:3]=="end":
             break
-print(accum)
+
 
         
     
